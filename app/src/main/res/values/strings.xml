@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bloco de Notas Mongo</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
